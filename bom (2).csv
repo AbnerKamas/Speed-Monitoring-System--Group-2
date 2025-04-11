@@ -1,0 +1,7 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"PIR1, PIR2",2," PIR Sensor"
+"S1",1," Pushbutton"
+"PIEZO4",1," Piezo"
+"R1, R2, R3",3,"1 kΩ Resistor"
+"D1",1,"Green LED"
