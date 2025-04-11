@@ -10,5 +10,7 @@ As the vehicle passes the second PIR sensor at the exit point, it also detects t
 
 This setup provides a simple but effective way to monitor and manage vehicle speed using infrared technology and basic microcontroller logic.
 Below is a Youtube Video explaining everything 
+
+
 https://youtu.be/Cb3RFh_t8DA?si=96IMQGKs8imvht6b
 
